@@ -8,7 +8,7 @@ My name is Diego Rivero Vazquez and I am a senior at the University of Washingto
 
 I am a senior double majoring in English and Political Science. I am creating this site as part of my class on Software Documentation, **ENGL 396**. Currently, I am in the process of waiting to hear back from graduate school admissions, as in the fall I applied to PhD programs for English. My goal after graduation is to attend grad school in the following autumn and begin working towards becoming a professor! 
 
-These have been some of my favorite classes I have taken at UW througout my four years and cannot recommend enough! 
+These are some of my favorite classes I have taken at UW througout my four years, which I cannot recommend enough! 
 
 + [ENGL 307: Cultural Studies](https://myplan.uw.edu/course/#/courses/ENGL%20307?id=fc35eb31-7d61-44ba-afb1-78e541880add)
 + [HSTAA 345: Making Modern America](https://myplan.uw.edu/course/#/courses/HSTAA%20345?id=c464ad0c-60ae-4ea2-9a14-4d865654a937)
@@ -25,7 +25,7 @@ Throughout my time at UW, I have been involved in many campus organizations and 
 | 2022 | Dawgs Move-In Crew |
 | 2023 | Orientation Leader |
 | 2023 | Theta Xi Fraternity |
-| 2024 | Alumni Orientation Leader |
+| 2024 | Returning Orientation Leader |
 | 2025 | First-Year Interest Group Leader |
 
 ### Current Reads
